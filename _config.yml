@@ -1,15 +1,18 @@
-title: Your awesome title
+title: A GitHub beginner's First GitHub Page
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    Thank you for being here.
+    This is a simple GitHub Page built by a random GitHub beginner in the worst times of the decade.
+  In 2020, we have Covid 19, an unstable political environment, and the possibility of global recession.
+  All of us are participating in these significant historial events.
+  Life may be tough but you are not alone.
+    Have a good day!
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  tlam-dev # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minima
